@@ -1,3 +1,6 @@
+// Author: (cm-amos)Amos Mwongela
+// File: script.js
+/* start */
 const userInput =  document.querySelector("#user_input");
 var expression = "";
 
@@ -15,3 +18,5 @@ erase = () => {
   expression = "";
   userInput.value = expression;
 }
+
+/* end */
