@@ -1,5 +1,5 @@
 <h1>Javascript Calculator</h1>
-<img src="calculator.png" />
+<img src="preview.png" />
 <br />
 <u>How to use</u>
 <ul>
