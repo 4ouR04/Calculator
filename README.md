@@ -1,4 +1,4 @@
-<h1>Javascript Calculator</h1>
+<h1>Calculator</h1>
 <br />
 <img src="img/preview.png" />
 <br />
