@@ -1,4 +1,4 @@
-// Author: (cm-amos)Amos Mwongela
+// Author: (4ouR04)Amos Mwongela
 // File: script.js
 /* start */
 const userInput =  document.querySelector("#user_input");
